@@ -1,0 +1,9 @@
+.logo img{
+    width: 130px;
+    
+}
+.container{
+    top: 20px;
+    position: relative;
+    left: 100px;
+}
